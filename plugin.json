@@ -1,0 +1,8 @@
+{
+  "name": "AutoPausePlugin",
+  "minGameVersion": "146",
+  "author": "Geeri45",
+  "main": "AutoPause.AutoPausePlugin",
+  "description": "AutoPausing Server",
+  "version": 1.0
+}
